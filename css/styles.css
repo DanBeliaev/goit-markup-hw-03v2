@@ -169,7 +169,7 @@ img {
     gap: 24px;       
 }
     
-.mtext-item-advantages {
+.text-item-advantages {
     width: calc((100% - 72px) / 4);     
     flex-wrap: wrap;
 }
